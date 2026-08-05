@@ -1,5 +1,5 @@
 # Fingerprint-Based-ATM-Authentication-System
-# Fingerprint Based ATM System
+
 
 A Flask + MySQL web application that replaces the traditional ATM-card login flow with an uploaded fingerprint-image comparison, allowing users to sign up, log in, deposit, withdraw, and view their transaction history.
 
